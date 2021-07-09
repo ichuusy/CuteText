@@ -4,7 +4,7 @@ This is a text converter. Normal text to cute text converter. I will teach you c
 
 CuteText documentation
 
-`cuteprint()` It only takes arguments to convert.
+`cuteprint()` It only take text to convert.
 
 `cutetime()` It takes few arguments. These : `"now"`,`"timestamp"`,`"fromtimestamp"`,`"ctime"`. 
 
