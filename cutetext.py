@@ -9,7 +9,7 @@ class CuteText():
     def cuteprint(self,args): # Prints cute text.
         return f"{self.text} {args}"
 
-    def cutetime(self,set,time : int=None): # Prints cute times.
+    def cutetime(self,set,time : int=None): # Prints cute time.
         now = datetime.datetime.now()
         if set == "now":
             return f"{self.text} {datetime.datetime.ndow()}"
