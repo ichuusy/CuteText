@@ -8,7 +8,9 @@ CuteText documentation
 
 `cutetime()` It takes few arguments. These : `"now"`,`"timestamp"`,`"fromtimestamp"`,`"ctime"`. 
 
-Example : `cutetime("now")`, It's very simple. Only `fromtimetamp` takes one argument. It's second argument. Example : `cutetime("fromtimestamp",1625800139.239973)` 
+Example : `cutetime("now")`, It's very simple. Only `fromtimetamp` takes one argument. It's second argument. 
+
+Example : `cutetime("fromtimestamp",1625800139.239973)` 
 
 I know this module very simple and easy. I'm just new and trying to improve myself. Sorry, I used translation for some words.
 
