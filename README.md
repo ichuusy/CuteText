@@ -6,6 +6,6 @@ CuteText documentation
 
 `cuteprint()` It only takes arguments to convert.
 
-`cutetime()` It takes few arguments. These : "now","timestamp","fromtimestamp","ctime". Example : cutetime("now"), It's very simple.
+`cutetime()` It takes few arguments. These : `"now"`,`"timestamp"`,`"fromtimestamp"`,`"ctime"`. Example : `cutetime("now")`, It's very simple.
 
 I know this module very simple and easy. I'm just new and trying to improve myself. Sorry, I used translation for some words.
