@@ -12,7 +12,9 @@ Example : `cutetime("now")`, It's very simple. Only `fromtimetamp` takes one arg
 
 Example : `cutetime("fromtimestamp",1625800139.239973)` 
 
-I know this module very simple and easy. I'm just new and trying to improve myself. Sorry, I used translation for some words.
+I know this module very simple and easy. I'm just new and trying to improve myself. 
+
+Sorry, I used translation for some words. If i used wrong word please contact me. Discord : horise#1703
 
 
 It is still in development.
