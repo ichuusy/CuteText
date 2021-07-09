@@ -1,4 +1,4 @@
-# CuteText
+# CuteText Module
 
 This is a text converter. Normal text to cute text converter. I will teach you cutetext. If you will use time, use cutetime in CuteText. If change your decide, use cuteprint in CuteText.
 
