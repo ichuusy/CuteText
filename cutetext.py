@@ -12,7 +12,7 @@ class CuteText():
     def cutetime(self,set,time : int=None): # Prints cute time.
         now = datetime.datetime.now()
         if set == "now":
-            return f"{self.text} {datetime.datetime.ndow()}"
+            return f"{self.text} {datetime.datetime.now()}"
         elif set == "timestamp":
             return f"{self.text} {datetime.datetime.timestamp(now)}"
         elif set == "fromtimestamp":
