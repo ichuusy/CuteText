@@ -11,3 +11,6 @@ CuteText documentation
 Example : `cutetime("now")`, It's very simple.
 
 I know this module very simple and easy. I'm just new and trying to improve myself. Sorry, I used translation for some words.
+
+
+It is still in development.
