@@ -14,7 +14,7 @@ Example : `cutetime("fromtimestamp",1625800139.239973)`
 
 I know this module very simple and easy. I'm just new and trying to improve myself. 
 
-I used translation for some words sorry.  If i used wrong word please contact me. Discord : horise#1703
+I used translation for some words sorry.  If i used wrong word or anything please contact me. Discord : horise#1703
 
 
 It is still in development.
